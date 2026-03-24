@@ -12,4 +12,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print greeting
-        run: echo "Hello ${{ inputs.who }} from reusable workflow"
+        run: echo "Hello ${{ inputs.who }} from reusable workflow vol2"
